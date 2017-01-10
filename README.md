@@ -3,6 +3,8 @@ avrdude
 
 avrdude with a Linux SPI programmer type
 
+Customized for flashing pisound firmware by BlokasLabs, hello@blokas.io
+
 Kevin Cuzner Jun 2013
 kevin@kevincuzner.com
 
